@@ -18,7 +18,7 @@ public class BSTdemo {
 		int value;  // value to insert, delete, or search for
 		
 		// Make a new BST called myTree
-		intBST myTree = new intBST();
+        intBST myTree = new intBST();
 		
 		// Do/while loop showing menu, getting user choice, and performing actions
 		do {
