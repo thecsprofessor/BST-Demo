@@ -3,8 +3,6 @@
 // 6/12/2013
 // Class from which we can BST node objects
 
-package bstdemo;
-
 public class BSTnode {
     private int data;
     private BSTnode left;

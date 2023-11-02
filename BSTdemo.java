@@ -3,8 +3,6 @@
 // 6/12/2013
 // Program to test the intBST (int Binary Search Tree) class
 
-package bstdemo;
-
 import java.util.Scanner;
 
 public class BSTdemo {
